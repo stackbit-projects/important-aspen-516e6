@@ -26,7 +26,8 @@ export default function HeroSection(props) {
                 sectionStyles.padding,
                 sectionStyles.borderColor,
                 sectionStyles.borderRadius ? mapStyles({ borderRadius: sectionStyles.borderRadius }) : null,
-                sectionStyles.borderStyle ? mapStyles({ borderStyle: sectionStyles.borderStyle }) : null
+                sectionStyles.borderStyle ? mapStyles({ borderStyle: sectionStyles.borderStyle }) : null,
+                sectionStyles.backgroundColor
             )}
             style={{
                 borderWidth: `${sectionBorderWidth}px`
