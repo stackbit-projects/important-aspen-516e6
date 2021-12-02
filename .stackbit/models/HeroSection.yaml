@@ -80,6 +80,22 @@ fields:
         borderRadius: '*'
         borderWidth: ['0:8']
         borderStyle: '*'
+        backgroundColor:
+          - value: 'bg-primary'
+            label: 'Primary color'
+            color: '$primary'
+          - value: 'bg-secondary'
+            label: 'Secondary color'
+            color: '$secondary'
+          - value: 'bg-dark'
+            label: 'Dark color'
+            color: '$dark'
+          - value: 'bg-complementary'
+            label: 'Complementary color'
+            color: '$complementary'
+          - value: 'BG-complementary-alt'
+            label: 'Complementary alt color'
+            color: '$complementaryAlt'
         borderColor:
           - value: 'border-primary'
             label: 'Primary color'
