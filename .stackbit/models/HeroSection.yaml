@@ -82,7 +82,7 @@ fields:
         borderStyle: '*'
         backgroundColor:
           - value: 'bg-primary'
-            label: 'Primary color'
+            label: 'Primary colorr'
             color: '$primary'
           - value: 'bg-secondary'
             label: 'Secondary color'
