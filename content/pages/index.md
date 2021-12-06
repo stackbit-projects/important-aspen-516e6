@@ -70,7 +70,7 @@ sections:
     styles:
       self:
         height: auto
-        width: full
+        width: narrow
         margin:
           - mt-20
           - mb-20
