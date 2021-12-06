@@ -84,6 +84,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row
+        backgroundColor: bg-primary
       title:
         textAlign: left
       subtitle:
