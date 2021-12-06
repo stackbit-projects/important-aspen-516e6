@@ -42,7 +42,7 @@ sections:
         borderWidth: 0
         borderStyle: none
         borderColor: border-dark
-        backgroundColor: bg-complementary
+        backgroundColor: bg-primary
       title:
         textAlign: left
       subtitle:
